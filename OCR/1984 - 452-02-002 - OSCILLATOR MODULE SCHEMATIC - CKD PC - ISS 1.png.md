@@ -36,7 +36,7 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Words (OCR):** 35 in 33 lines: Cis · 22/25 · CR7 · Rs6 · 22/25 · ZV · 09 44 · 4003 · Goon · 463 · LEVEL · CAL
 - **Wiring (first pass):** 110 connected wire groups from 626 runs, 2 dotted junctions; labelled ends: 117 mm → Rs6; 87 mm → 22k, GR 2; 81 mm → CR7; 68 mm → 463; 50 mm → 4003
 
-Every curve, box, word and wire group: [1984 - 452-02-002 - OSCILLATOR MODULE SCHEMATIC - CKD PC - ISS 1 (traced).json](../SCHEMATICS/1984%20-%20452-02-002%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20-%20CKD%20PC%20-%20ISS%201%20(traced).json) (the CAD file: `1984 - 452-02-002 - OSCILLATOR MODULE SCHEMATIC - CKD PC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 452-02-002 - OSCILLATOR MODULE SCHEMATIC - CKD PC - ISS 1 (traced).json](../SCHEMATICS/1984%20-%20452-02-002%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20-%20CKD%20PC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 452-02-002 - OSCILLATOR MODULE SCHEMATIC - CKD PC - ISS 1 (traced).dxf`).
 
 ## Full text
 

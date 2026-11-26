@@ -22,7 +22,7 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Words (OCR):** 66 in 40 lines: WB $ · M452 · LEVEL Calibration contro] · Screndr ver adjustment · 20k · permits output · dr · from front unit_ · 156 · SELEcTiOA shitch assembly ShI · Frequene · osc | |ator
 - **Title block:** (216, 0)–(331, 60) mm: REvISION · APP · WBS WARD-BECK SYSTEMS · M452 · ENG · OSCILLATOR MODULE · CKD Pla · APP · FRONT PANEL · SCALE · ISSue · 452-04-003
 
-Every curve, box, word and wire group: [1971 - M452 - 452-04-003 - NON- COMITTED NORMA Y-OPEN CONTACT (traced).json](../MECHANICAL/1971%20-%20M452%20-%20452-04-003%20-%20NON-%20COMITTED%20NORMA%20Y-OPEN%20CONTACT%20(traced).json) (the CAD file: `1971 - M452 - 452-04-003 - NON- COMITTED NORMA Y-OPEN CONTACT (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M452 - 452-04-003 - NON- COMITTED NORMA Y-OPEN CONTACT (traced).json](../MECHANICAL/1971%20-%20M452%20-%20452-04-003%20-%20NON-%20COMITTED%20NORMA%20Y-OPEN%20CONTACT%20%28traced%29.json) (the CAD file: `1971 - M452 - 452-04-003 - NON- COMITTED NORMA Y-OPEN CONTACT (traced).dxf`).
 
 ## Full text
 

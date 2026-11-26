@@ -24,7 +24,7 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Title block:** (257, 3)–(432, 90) mm: 10/77 · REVISFD DESIGNATIONS · 10/77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRNPMuoney · M452 · ENG_ RKB · OSCILLATOR MODULE · cKD (Relll · FUNCTIONAL DIAGRAM · APP · SCALE 
 - **Wiring (first pass):** 54 connected wire groups from 134 runs; labelled ends: 219 mm → (-6dB), BST, +14 dBm OUT, (-84dB); 126 mm → DESIGNATIONS, 10/77; 39 mm → BST, Trim; 30 mm → +14 dBm; 21 mm → AGC, OSC
 
-Every curve, box, word and wire group: [1971 - M452 - 452-01-001 - OSCILLATOR MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1971%20-%20M452%20-%20452-01-001%20-%20OSCILLATOR%20MODULE%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1971 - M452 - 452-01-001 - OSCILLATOR MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M452 - 452-01-001 - OSCILLATOR MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1971%20-%20M452%20-%20452-01-001%20-%20OSCILLATOR%20MODULE%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1971 - M452 - 452-01-001 - OSCILLATOR MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

@@ -29,7 +29,7 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Title block:** (350, 0)–(387, 28) mm: WBS WAAD_ · Da · Ry · SCALE
 - **Wiring (first pass):** 137 connected wire groups from 804 runs, 2 dotted junctions; labelled ends: 185 mm → NOTE, Krzo, S4Ic; 183 mm → 355; 159 mm → Rs6; 109 mm → USED 07; 94 mm → LTD
 
-Every curve, box, word and wire group: [1974 - M452 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M452%20-%20452-02-001%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1974 - M452 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M452 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M452%20-%20452-02-001%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1974 - M452 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

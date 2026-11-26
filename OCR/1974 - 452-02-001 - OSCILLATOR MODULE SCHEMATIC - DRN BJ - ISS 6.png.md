@@ -36,7 +36,7 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Words (OCR):** 65 in 62 lines: chassis · R4s · Cis · ZSv · 22/25 · CR: · 1n4003 · Pn3s6 $ · R5s · Rso · 22/25- · 2R8
 - **Wiring (first pass):** 126 connected wire groups from 887 runs, 1 dotted junctions; labelled ends: 258 mm → R76, 463; 158 mm → Kelil; 142 mm → RSZ; 110 mm → R5s; 109 mm → LTD., WBS
 
-Every curve, box, word and wire group: [1974 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC - DRN BJ - ISS 6 (traced).json](../SCHEMATICS/1974%20-%20452-02-001%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20-%20DRN%20BJ%20-%20ISS%206%20(traced).json) (the CAD file: `1974 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC - DRN BJ - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC - DRN BJ - ISS 6 (traced).json](../SCHEMATICS/1974%20-%20452-02-001%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20-%20DRN%20BJ%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1974 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC - DRN BJ - ISS 6 (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Closed boxes:** 22
 - **Wiring (first pass):** 66 connected wire groups from 371 runs
 
-Every curve, box, word and wire group: [1971 - M452 - 452-01-001 - REVISED DESIGNATIONS (traced).json](../SCHEMATICS/1971%20-%20M452%20-%20452-01-001%20-%20REVISED%20DESIGNATIONS%20(traced).json) (the CAD file: `1971 - M452 - 452-01-001 - REVISED DESIGNATIONS (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M452 - 452-01-001 - REVISED DESIGNATIONS (traced).json](../SCHEMATICS/1971%20-%20M452%20-%20452-01-001%20-%20REVISED%20DESIGNATIONS%20%28traced%29.json) (the CAD file: `1971 - M452 - 452-01-001 - REVISED DESIGNATIONS (traced).dxf`).
 
 ## Full text
 

@@ -16,6 +16,15 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Size:** 178,029 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 432 × 331 mm, 1099 × 843 px traced (0.393 mm/px), turned 270°
+- **Ink extent:** 0–432 mm across, 0–331 mm up
+- **Outlines:** line 350 rings, 3,583 straight (14,652 mm) / 521 curved (1,304 mm); text 372 rings, 2,264 straight (4,099 mm) / 697 curved (1,666 mm)
+- **Closed boxes:** 81
+
+Every curve, box, word and wire group: [M452 - P16 - Pin Out(1) (traced).json](../PINOUTS/M452%20-%20P16%20-%20Pin%20Out%281%29%20%28traced%29.json) (the CAD file: `M452 - P16 - Pin Out(1) (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

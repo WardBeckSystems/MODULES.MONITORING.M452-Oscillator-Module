@@ -23,7 +23,7 @@ Wiki page: [M452](../../../../PAGES/M452.md)
 - **Words (OCR):** 62 in 41 lines: WB S · M452 · On contro R37: Screwdriver aoju5 tment · Level CaLibra T · Permi[s cuicut · eve · bra · {ron · Front of uni · 20k · I5k · SELEcTiON swiich asserby Shi
 - **Title block:** (197, 24)–(301, 80) mm: Revision · WBS WARO-BECK SYSTEMS · M452 · ENG · OSCILLATOR MODULE · APP; · FRONT PANEL · scALe · ISSUE · 452-04-003
 
-Every curve, box, word and wire group: [1971 - M452 - 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES (traced).json](../MECHANICAL/1971%20-%20M452%20-%20452-04-003%20-%20JABLE%20FOR%20EXERNA%20CANTROL%20CURDOSES%20(traced).json) (the CAD file: `1971 - M452 - 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M452 - 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES (traced).json](../MECHANICAL/1971%20-%20M452%20-%20452-04-003%20-%20JABLE%20FOR%20EXERNA%20CANTROL%20CURDOSES%20%28traced%29.json) (the CAD file: `1971 - M452 - 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES (traced).dxf`).
 
 ## Full text
 
