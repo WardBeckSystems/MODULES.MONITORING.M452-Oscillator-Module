@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/MONITORING/M452/MANUALS/1974 - M452 - Oscillator Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/b4b5faadbd670390-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1431, 2000],
+  "mm": [309.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.4, 7.1, 301.1, 418.2],
+ "outlines": {
+  "line": {"rings": 17, "straight": {"n": 721, "mm": 2624.9}, "curved": {"n": 75, "mm": 122.5}},
+  "text": {"rings": 160, "straight": {"n": 1895, "mm": 2540.2}, "curved": {"n": 454, "mm": 722.3}},
+  "tb": {"rings": 8, "straight": {"n": 144, "mm": 326.2}, "curved": {"n": 22, "mm": 33.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [106.0, 409.3, 271.8, 418.9], "text": "WARD-BECK systeMS LTD"},
+   {"mm": [36.1, 401.1, 271.4, 415.8], "text": "WBS 841 PROGAESS AVENUE, SCARBOAOUGH, ONTAPIO Mih?x4"},
+   {"mm": [106.0, 398.1, 159.6, 403.4], "text": "TeLeX; 065-25399"},
+   {"mm": [195.2, 397.5, 228.6, 402.7], "text": "TELEPHONF"},
+   {"mm": [128.9, 244.0, 183.3, 257.4], "text": "M452"},
+   {"mm": [114.9, 231.0, 199.5, 240.6], "text": "OSCILLATOR MODULE"},
+   {"mm": [62.8, 6.3, 239.9, 12.2], "text": "DESIGN AND MANUFACTUAE OF PAOFESSIONAL AUDIO EOUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [30.0, 392.4, 251.2, 427.7],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK systeMS LTD", "WBS 841 PROGAESS AVENUE, SCARBOAOUGH, ONTAPIO Mih?x4", "TeLeX; 065-25399", "TELEPHONF"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 309 × 432 mm, 1431 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–301 mm across, 7–418 mm up",
+  "- **Outlines:** line 17 rings, 721 straight (2,625 mm) / 75 curved (122 mm); text 160 rings, 1,895 straight (2,540 mm) / 454 curved (722 mm); tb 8 rings, 144 straight (326 mm) / 22 curved (33.2 mm)",
+  "- **Words (OCR):** 12 in 7 lines: WARD-BECK systeMS LTD · WBS 841 PROGAESS AVENUE, SCARBOAOUGH, ONTAPIO Mih?x4 · TeLeX; 065-25399 · TELEPHONF · M452 · OSCILLATOR MODULE · DESIGN AND MANUFACTUAE OF PAOFESSIONAL AUDIO EOUIPMENT",
+  "- **Title block:** (30, 392)–(251, 428) mm: WARD-BECK systeMS LTD · WBS 841 PROGAESS AVENUE, SCARBOAOUGH, ONTAPIO Mih?x4 · TeLeX; 065-25399 · TELEPHONF"
+ ]
+}

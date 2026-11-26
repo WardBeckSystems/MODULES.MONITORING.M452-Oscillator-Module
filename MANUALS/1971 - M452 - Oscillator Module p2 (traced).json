@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/MONITORING/M452/MANUALS/1971 - M452 - Oscillator Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/f37315d99c69428b-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1431, 2000],
+  "mm": [309.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.6, 7.1, 301.1, 418.2],
+ "outlines": {
+  "line": {"rings": 148, "straight": {"n": 2401, "mm": 4889.2}, "curved": {"n": 446, "mm": 693.7}},
+  "text": {"rings": 51, "straight": {"n": 485, "mm": 694.9}, "curved": {"n": 106, "mm": 173.6}}
+ },
+ "circles": [{"c": [238.9, 400.2], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [155.4, 398.8, 158.7, 401.8], "w": 3.2, "h": 3.0, "from": "ring"}],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [105.8, 409.6, 132.6, 417.0], "text": "WAR"},
+   {"mm": [165.4, 409.6, 269.2, 417.0], "text": "CK SYSTEMS LTD"},
+   {"mm": [129.3, 243.8, 182.9, 254.3], "text": "M4S2"},
+   {"mm": [116.6, 231.9, 198.0, 238.4], "text": "OSC LATOR MODULE"},
+   {"mm": [274.2, 63.5, 293.0, 71.9], "text": "ca"},
+   {"mm": [263.6, 52.9, 282.8, 61.3], "text": "ps"},
+   {"mm": [253.0, 42.3, 273.1, 52.9], "text": "BS"},
+   {"mm": [232.5, 21.8, 249.6, 28.5], "text": "tp"},
+   {"mm": [225.8, 15.1, 245.0, 21.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 309 × 432 mm, 1431 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–301 mm across, 7–418 mm up",
+  "- **Outlines:** line 148 rings, 2,401 straight (4,889 mm) / 446 curved (694 mm); text 51 rings, 485 straight (695 mm) / 106 curved (174 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (238.9, 400.2)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 13 in 9 lines: WAR · CK SYSTEMS LTD · M4S2 · OSC LATOR MODULE · ca · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/MONITORING/M452/MANUALS/1974 - M452 - Oscillator Module.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/b4b5faadbd670390-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1492, 2000],
+  "mm": [322.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [13.6, 11.7, 310.6, 422.1],
+ "outlines": {
+  "line": {"rings": 9, "straight": {"n": 816, "mm": 3134.4}, "curved": {"n": 70, "mm": 118.1}},
+  "text": {"rings": 414, "straight": {"n": 3558, "mm": 4238.0}, "curved": {"n": 914, "mm": 1404.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 45,
+  "lines": [
+   {"mm": [15.1, 416.3, 136.0, 423.4], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [124.6, 364.9, 147.9, 373.0], "text": "IABLE"},
+   {"mm": [150.1, 364.9, 197.8, 373.5], "text": "OF_CONTENTS"},
+   {"mm": [111.6, 350.8, 210.3, 359.5], "text": "M452 OSCILLAIOR_MODULE"},
+   {"mm": [32.4, 260.2, 63.7, 268.3], "text": "SECIION"},
+   {"mm": [244.4, 260.2, 262.8, 268.3], "text": "PAGE"},
+   {"mm": [83.1, 239.6, 118.1, 247.3], "text": "Warranty"},
+   {"mm": [83.1, 232.7, 143.1, 240.2], "text": "Technica] Data"},
+   {"mm": [230.4, 233.6, 243.3, 240.1], "text": "1-1"},
+   {"mm": [83.1, 225.6, 113.8, 233.3], "text": "circuit"},
+   {"mm": [117.0, 225.6, 164.5, 233.8], "text": "Description"},
+   {"mm": [230.4, 226.3, 243.3, 233.2], "text": "2 -1"},
+   {"mm": [259.5, 226.3, 273.1, 233.2], "text": "2 -2"},
+   {"mm": [83.1, 219.1, 126.7, 226.1], "text": "Parts List"},
+   {"mm": [231.0, 219.1, 256.3, 226.1], "text": "3 -1 to"},
+   {"mm": [260.2, 219.1, 273.1, 226.1], "text": "3 -4"},
+   {"mm": [83.6, 196.5, 118.5, 205.1], "text": "Drawings"},
+   {"mm": [83.1, 183.5, 156.1, 191.2], "text": "M452 Front Panel"},
+   {"mm": [230.4, 183.9, 277.9, 191.6], "text": "4452-04-003"},
+   {"mm": [83.6, 176.4, 151.6, 184.5], "text": "M452 Functiona]"},
+   {"mm": [230.4, 177.0, 276.8, 184.7], "text": "B452-01-001"},
+   {"mm": [83.6, 170.1, 147.9, 177.1], "text": "M452 Schematic"},
+   {"mm": [230.4, 170.1, 276.8, 177.6], "text": "B452-02-001"},
+   {"mm": [230.4, 163.0, 285.4, 170.7], "text": "B4-127-06-001"},
+   {"mm": [83.6, 162.4, 177.5, 170.0], "text": "M452 Component Layout"},
+   {"mm": [83.6, 155.4, 147.9, 163.6], "text": "M452 Connector"},
+   {"mm": [151.1, 155.4, 177.5, 163.1], "text": "Layout"},
+   {"mm": [230.4, 155.9, 277.9, 163.6], "text": "4452-04-002"},
+   {"mm": [231.0, 43.6, 282.8, 51.8], "text": "MANUAL SSUE"},
+   {"mm": [231.0, 30.2, 274.2, 37.9], "text": "SEPT . 1977"}
+  ]
+ },
+ "title_block": {"mm": [8.7, 407.5, 122.4, 431.8], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1492 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 14–311 mm across, 12–422 mm up",
+  "- **Outlines:** line 9 rings, 816 straight (3,134 mm) / 70 curved (118 mm); text 414 rings, 3,558 straight (4,238 mm) / 914 curved (1,405 mm)",
+  "- **Words (OCR):** 45 in 30 lines: WARD-BECK SYSTEMS LTD · IABLE · OF_CONTENTS · M452 OSCILLAIOR_MODULE · SECIION · PAGE · Warranty · Technica] Data · 1-1 · circuit · Description · 2 -1",
+  "- **Title block:** (9, 408)–(122, 432) mm: WARD-BECK SYSTEMS LTD"
+ ]
+}

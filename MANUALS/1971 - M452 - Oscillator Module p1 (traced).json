@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/MONITORING/M452/MANUALS/1971 - M452 - Oscillator Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/f37315d99c69428b-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1491, 2000],
+  "mm": [321.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [168.8, 0.5, 287.8, 430.3],
+ "outlines": {
+  "line": {"rings": 66, "straight": {"n": 2469, "mm": 9431.1}, "curved": {"n": 174, "mm": 332.9}},
+  "text": {"rings": 5, "straight": {"n": 101, "mm": 419.8}, "curved": {"n": 15, "mm": 27.7}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [223.0, 250.0, 240.7, 253.0], "w": 17.7, "h": 3.0, "from": "ring", "words": ["'NBS"]},
+  {"mm": [223.4, 216.8, 240.7, 219.8], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [224.8, 58.9, 241.8, 61.7], "w": 17.1, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [182.0, 399.8, 274.0, 419.5], "text": "'NBS"},
+   {"mm": [170.6, 356.2, 290.8, 387.7], "text": "('N~3S)"},
+   {"mm": [181.6, 320.8, 274.0, 340.5], "text": "'NBS"},
+   {"mm": [181.6, 281.3, 273.5, 301.0], "text": "'NBS"},
+   {"mm": [181.6, 241.6, 273.5, 261.3], "text": "'NBS"},
+   {"mm": [182.0, 202.1, 273.5, 221.8], "text": "'NBS"},
+   {"mm": [181.6, 162.8, 273.5, 182.5], "text": "'NBS"},
+   {"mm": [181.6, 123.1, 273.5, 142.7], "text": "'NBS"},
+   {"mm": [196.9, 88.3, 257.8, 98.4], "text": "os LATCIt MQDI'"},
+   {"mm": [181.6, 44.5, 294.9, 64.1], "text": "'NBS ps"},
+   {"mm": [263.8, 44.0, 284.8, 55.1], "text": "BS"},
+   {"mm": [242.5, 22.5, 260.2, 29.4], "text": "tp"},
+   {"mm": [181.6, 4.5, 273.5, 24.2], "text": "'NBS"},
+   {"mm": [235.5, 15.5, 255.6, 22.5], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1491 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 169–288 mm across, 0–430 mm up",
+  "- **Outlines:** line 66 rings, 2,469 straight (9,431 mm) / 174 curved (333 mm); text 5 rings, 101 straight (420 mm) / 15 curved (27.7 mm)",
+  "- **Closed boxes:** 3; named: 'NBS",
+  "- **Words (OCR):** 17 in 14 lines: 'NBS · ('N~3S) · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · os LATCIt MQDI' · 'NBS ps · BS · tp"
+ ]
+}
