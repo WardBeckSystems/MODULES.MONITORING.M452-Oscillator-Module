@@ -109,17 +109,61 @@ Not on Google Drive yet: `M452 - P16 - Pin Out Mod(1).jpg`, `M452 - P16 - Pin Ou
 
 ## RTO-144 pinout
 
-21 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 6 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 7 of 9 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-18: kept SWITCHED OUTPUT CTL (control_in); RTO-144 sheet says GND (ground)
+- disagree P1-Y: kept N/C (nc); RTO-144 sheet says VCC-LOGIC (power)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 18 | COMMON | ground |  | high |
+| 1 | N/C | nc |  | high |
+| 2 | N/C | nc |  | high |
+| 3 | N/C | nc |  | high |
+| 4 | N/C | nc |  | high |
+| 5 | N/C | nc |  | high |
+| 6 | N/C | nc |  | high |
+| 7 | N/C | nc |  | high |
+| 8 | N/C | nc |  | high |
+| 9 | N/C | nc |  | high |
+| 10 | N/C | nc |  | high |
+| 11 | N/C | nc |  | high |
+| 12 | DIRECT OUTPUT -70 dBm 150 OHM | out | DIRECT OUTPUT -70 dBm 150 OHM | high |
+| 13 | DIRECT OUTPUT +8 dBm 600 OHM | out | DIRECT OUTPUT +8 dBm 600 OHM | high |
+| 14 | DIRECT OUTPUT +14 dBm | out | DIRECT OUTPUT +14 dBm | high |
+| 15 | SWITCHED OUTPUT +8 dBm 600 OHM | out | SWITCHED OUTPUT +8 dBm 600 OHM | high |
+| 16 | SWITCHED OUTPUT +14 dBm DIR | out | SWITCHED OUTPUT +14 dBm DIR | high |
+| 17 | N/C | nc |  | high |
+| 18 | SWITCHED OUTPUT CTL | control_in | SWITCHED OUTPUT CTL | high |
 | 19 | -25 V | power |  | high |
 | 20 | COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
-| Y | +24 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | N/C | nc |  | high |
+| B | N/C | nc |  | high |
+| C | N/C | nc |  | high |
+| D | N/C | nc |  | high |
+| E | N/C | nc |  | high |
+| F | N/C | nc |  | high |
+| H | N/C | nc |  | high |
+| J | N/C | nc |  | high |
+| K | N/C | nc |  | high |
+| L | N/C | nc |  | high |
+| M | N/C | nc |  | high |
+| N | DIRECT OUTPUT -70 dBm 150 OHM | out | DIRECT OUTPUT -70 dBm 150 OHM | high |
+| P | DIRECT OUTPUT +8 dBm 600 OHM | out | DIRECT OUTPUT +8 dBm 600 OHM | high |
+| R | DIRECT OUTPUT +14 dBm | out | DIRECT OUTPUT +14 dBm | high |
+| S | SWITCHED OUTPUT +8 dBm 600 OHM | out | SWITCHED OUTPUT +8 dBm 600 OHM | high |
+| T | SWITCHED OUTPUT +14 dBm DIR | out | SWITCHED OUTPUT +14 dBm DIR | high |
+| U | N/C | nc |  | high |
+| V | SWITCHED OUTPUT CTL | control_in | SWITCHED OUTPUT CTL | high |
+| W | N/C | nc |  | high |
+| X | N/C | nc |  | high |
+| Y | N/C | nc |  | high |
+| Z | N/C | nc |  | high |
 
-**Straps:** CH ON LAMP: JMP.Z.W · CH ON GND : JMP.X.18 · 24V Jumper: JMP.Y.21 · CH ON GND : JMP.3 · Insert +: JMP.22.21 · Insert -: JMP.Z.Y · Fader +: JMP.20.19 · Fader - : JMP.X.W
+**Straps:** JMP.Z.W: P2-Z P2-W · JMP.X.18: P2-X P2-18 · JMP.Y.21: P2-Y P2-21 · JMP.3: P2-20 P2-18 · JMP.22.21: P2-22 P2-21 · JMP.Z.Y: P2-Z P2-Y · JMP.20.19: P2-20 P2-19 · JMP.X.W: P2-X P2-W
 
 ## Manuals and documents
 

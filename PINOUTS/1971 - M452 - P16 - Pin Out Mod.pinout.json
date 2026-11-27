@@ -1,0 +1,526 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "1971 - M452 - P16 - Pin Out Mod.jpg",
+ "module": "M452",
+ "applies_to": [
+  "M452"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "452-04-002",
+  "title": "M452 OSCILLATOR MODULE CONNECTOR REAR VIEW",
+  "date": "1977-09",
+  "issue": "2",
+  "drawn": "G.R."
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "A",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "also": null,
+   "as_drawn": "-70 dBm 150Ω",
+   "signal": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "-70 dBm 150Ω",
+   "signal": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "also": null,
+   "as_drawn": "+8 dBm 600Ω",
+   "signal": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "+8 dBm 600Ω",
+   "signal": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "also": null,
+   "as_drawn": "+14 dBm",
+   "signal": "DIRECT OUTPUT +14 dBm",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +14 dBm",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "+14 dBm",
+   "signal": "DIRECT OUTPUT +14 dBm",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +14 dBm",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "also": null,
+   "as_drawn": "+8 dBm 600Ω",
+   "signal": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "also": null,
+   "as_drawn": "+8 dBm 600Ω",
+   "signal": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "also": null,
+   "as_drawn": "+14 dBm DIR",
+   "signal": "SWITCHED OUTPUT +14 dBm DIR",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +14 dBm DIR",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "also": null,
+   "as_drawn": "+14 dBm DIR",
+   "signal": "SWITCHED OUTPUT +14 dBm DIR",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +14 dBm DIR",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "also": null,
+   "as_drawn": "CTL",
+   "signal": "SWITCHED OUTPUT CTL",
+   "kind": "control_in",
+   "port": "SWITCHED OUTPUT CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "also": null,
+   "as_drawn": "CTL",
+   "signal": "SWITCHED OUTPUT CTL",
+   "kind": "control_in",
+   "port": "SWITCHED OUTPUT CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "also": null,
+   "as_drawn": "-25V",
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "also": null,
+   "as_drawn": "COM",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "also": null,
+   "as_drawn": "+25V",
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "also": null,
+   "as_drawn": "CHASSIS",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "dir": "out",
+   "pins": {
+    "a": "P1-N",
+    "b": "P1-12"
+   }
+  },
+  {
+   "name": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "dir": "out",
+   "pins": {
+    "a": "P1-P",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "DIRECT OUTPUT +14 dBm",
+   "dir": "out",
+   "pins": {
+    "a": "P1-R",
+    "b": "P1-14"
+   }
+  },
+  {
+   "name": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "dir": "out",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "SWITCHED OUTPUT +14 dBm DIR",
+   "dir": "out",
+   "pins": {
+    "a": "P1-T",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "SWITCHED OUTPUT CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-V",
+    "b": "P1-18"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "unread": [
+  "CKD. signature in the title block is illegible",
+  "Hand-written pencil note near the title block (around 'T-16 ... Pad 14 ... Pad 8db ... Direct inpt 4-0') is only partly legible; values of the sketched resistors read as 240, 240 and 150 (or 15) ohms"
+ ],
+ "confidence": "high",
+ "notes": "Single 22-way edge connector, rear view; the drawing does not name it (file name 'P16' is taken as a page number, so it is called P1 here). Letters A-Z (no G, I, O, Q) and numbers 1-22 are opposite contacts of the same row, each labelled separately, so each is its own pin entry. Every output is labelled identically on its letter and number contact (e.g. N and 12 both '-70 dBm 150Ω'): read as a balanced pair, but the drawing marks no +/- polarity, so ports use 'a' (letter side) / 'b' (number side) and polarity is null. Outputs grouped by bracket as DIRECT OUTPUT (N/12, P/13, R/14) and SWITCHED OUTPUT (S/15, T/16, U/17 NC, V/18 CTL). CTL taken as the control line that switches the SWITCHED OUTPUT; its direction is not drawn. Power only on the number side: 19 -25V, 20 COM, 21 +25V, 22 CHASSIS; W, X, Y, Z NC. Legend: NC = NOT CONNECTED. Title block: Ward-Beck Systems Ltd., M452 Oscillator Module Connector Rear View, 452-04-002, size A, iss. 2, drn. G.R., date Sept 77, ckd. initials (illegible signature). Hand-written pencil mods on this copy: a resistor sketched across L-10 labelled '150Ω' (or '15Ω'), resistors labelled '240' on each side running down to N/12, S/15 circled, and a note near the title block reading roughly 'T-16 - Pad 14 ... Pad 8db ... Direct inpt 4-0' (partly illegible)."
+}

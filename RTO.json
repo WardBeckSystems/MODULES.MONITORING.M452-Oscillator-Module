@@ -3,147 +3,1140 @@
  "connector": "RTO-144",
  "type": "M452 Oscillator Module",
  "series": null,
- "contacts": "21 contacts (P2)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+   "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+   "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+   "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+   "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+   "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M452/M452.rto144.json",
+  "sheet_agrees": "7 of 9"
+ },
  "pins": [
   {
-   "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M452/M452.rto144.json",
-   "page": 1
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT +14 dBm",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +14 dBm",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "SWITCHED OUTPUT +14 dBm DIR",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +14 dBm DIR",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "SWITCHED OUTPUT CTL",
+   "kind": "control_in",
+   "port": "SWITCHED OUTPUT CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": false
+   }
+  },
+  {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M452/M452.rto144.json",
-   "page": 1
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
    "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M452/M452.rto144.json",
-   "page": 1
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M452/M452.rto144.json",
-   "page": 1
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
-   "pin": "Y",
-   "signal": "+24 V",
-   "kind": "power",
-   "pair": null,
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M452/M452.rto144.json",
-   "page": 1
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.22.21",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT +14 dBm",
+   "kind": "out",
+   "port": "DIRECT OUTPUT +14 dBm",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": null,
+   "same_row": null,
+   "signal": "SWITCHED OUTPUT +14 dBm DIR",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT +14 dBm DIR",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "SWITCHED OUTPUT CTL",
+   "kind": "control_in",
+   "port": "SWITCHED OUTPUT CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.Z.W",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.X.18",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-LOGIC",
+    "kind": "power",
+    "agrees": false
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/1971 - M452 - P16 - Pin Out.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out Mod.pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out(1).pinout.json",
+    "M452/PINOUTS/M452 - P16 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.Z.W",
+    "kind": "strap",
+    "agrees": true
+   }
   }
  ],
+ "ports": [
+  {
+   "name": "DIRECT OUTPUT -70 dBm 150 OHM",
+   "dir": "out",
+   "pins": {
+    "a": "P1-N",
+    "b": "P1-12"
+   }
+  },
+  {
+   "name": "DIRECT OUTPUT +8 dBm 600 OHM",
+   "dir": "out",
+   "pins": {
+    "a": "P1-P",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "DIRECT OUTPUT +14 dBm",
+   "dir": "out",
+   "pins": {
+    "a": "P1-R",
+    "b": "P1-14"
+   }
+  },
+  {
+   "name": "SWITCHED OUTPUT +8 dBm 600 OHM",
+   "dir": "out",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "SWITCHED OUTPUT +14 dBm DIR",
+   "dir": "out",
+   "pins": {
+    "a": "P1-T",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "SWITCHED OUTPUT CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-V",
+    "b": "P1-18"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [
   {
-   "function": "CH ON LAMP",
-   "designation": "JMP.Z.W",
-   "from": "P2-Z",
-   "to": "P2-W"
+   "name": "JMP.Z.W",
+   "pins": [
+    "P2-Z",
+    "P2-W"
+   ],
+   "note": "CH ON LAMP",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "CH ON GND ",
-   "designation": "JMP.X.18",
-   "from": "P2-X",
-   "to": "P2-18"
+   "name": "JMP.X.18",
+   "pins": [
+    "P2-X",
+    "P2-18"
+   ],
+   "note": "CH ON GND",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "24V Jumper",
-   "designation": "JMP.Y.21",
-   "from": "P2-Y",
-   "to": "P2-21"
+   "name": "JMP.Y.21",
+   "pins": [
+    "P2-Y",
+    "P2-21"
+   ],
+   "note": "24V Jumper",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "CH ON GND ",
-   "designation": "JMP.3",
-   "from": "P2-20",
-   "to": "P2-18"
+   "name": "JMP.3",
+   "pins": [
+    "P2-20",
+    "P2-18"
+   ],
+   "note": "CH ON GND",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Insert +",
-   "designation": "JMP.22.21",
-   "from": "P2-22",
-   "to": "P2-21"
+   "name": "JMP.22.21",
+   "pins": [
+    "P2-22",
+    "P2-21"
+   ],
+   "note": "Insert +",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Insert -",
-   "designation": "JMP.Z.Y",
-   "from": "P2-Z",
-   "to": "P2-Y"
+   "name": "JMP.Z.Y",
+   "pins": [
+    "P2-Z",
+    "P2-Y"
+   ],
+   "note": "Insert -",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Fader +",
-   "designation": "JMP.20.19",
-   "from": "P2-20",
-   "to": "P2-19"
+   "name": "JMP.20.19",
+   "pins": [
+    "P2-20",
+    "P2-19"
+   ],
+   "note": "Fader +",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Fader - ",
-   "designation": "JMP.X.W",
-   "from": "P2-X",
-   "to": "P2-W"
+   "name": "JMP.X.W",
+   "pins": [
+    "P2-X",
+    "P2-W"
+   ],
+   "note": "Fader -",
+   "from": "RTO-144 sheet"
   }
  ],
- "power": [
+ "conflicts": [
   {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.1,
-   "supply": "P2-19",
-   "ground": "P2-20",
-   "link": 2
+   "pin": "P1-18",
+   "kept": "SWITCHED OUTPUT CTL (control_in)",
+   "other": "GND (ground)",
+   "from": "RTO-144 sheet"
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "P2-21",
-   "ground": "P2-20",
-   "link": 1
-  },
-  {
-   "rail": "VCC-LOGIC",
-   "style": "NEW",
-   "volts": 24,
-   "max_a": 0.1,
-   "supply": "P2-Y",
-   "ground": "P2-18",
-   "link": null
+   "pin": "P1-Y",
+   "kept": "N/C (nc)",
+   "other": "VCC-LOGIC (power)",
+   "from": "RTO-144 sheet"
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M452/M452.rto144.json"
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-18",
+   "detail": "kept SWITCHED OUTPUT CTL (control_in); RTO-144 sheet says GND (ground)"
+  },
+  {
+   "what": "disagree",
+   "pin": "P1-Y",
+   "detail": "kept N/C (nc); RTO-144 sheet says VCC-LOGIC (power)"
+  }
  ]
 }
