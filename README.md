@@ -86,6 +86,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYUpQaS1qXzRJSjg/view?resourcekey=0-nl4a5fo0zreI3j1A1iN-Ug" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYUpQaS1qXzRJSjg&resourcekey=0-nl4a5fo0zreI3j1A1iN-Ug" width="240" alt="1971 - M452 - 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES.jpg"></a><br><sub>1971|4 · 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES · <a href="MECHANICAL/1971%20-%20M452%20-%20452-04-003%20-%20JABLE%20FOR%20EXERNA%20CANTROL%20CURDOSES%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbndQS3VnZzA3X1U/view?resourcekey=0-6L3QzM7b7NP_OtE64HmXyA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbndQS3VnZzA3X1U&resourcekey=0-6L3QzM7b7NP_OtE64HmXyA" width="240" alt="1971 - M452 - 452-04-003 - NON- COMITTED NORMA Y-OPEN CONTACT.jpg"></a><br><sub>1971|4 · 452-04-003 - NON- COMITTED NORMA Y-OPEN CONTACT · <a href="MECHANICAL/1971%20-%20M452%20-%20452-04-003%20-%20NON-%20COMITTED%20NORMA%20Y-OPEN%20CONTACT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M452.stl`](MECHANICAL/M452.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M452)
+
+- **Size:** 152.4 × 177.8 mm panel, 165.1 mm deep, 3.2 mm plate (TECHNICAL DATA: 1 6 " wide X 7" high X 6.5" deep (41 TT X 178 M X 165 mm))
+- **From the drawing:** 15 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M452 - front panel.svg`)
+- the drawn panel is 0.22 wide to high, the size 0.86: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M452.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
