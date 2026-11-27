@@ -1,0 +1,184 @@
+{
+ "module": "M452",
+ "title": "M452 OSCILLATOR MODULE",
+ "source": {
+  "file": "MANUALS/1974 - M452 - Oscillator Module.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.86,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Oscillator frequencies",
+   "key": "oscillator_frequencies",
+   "text": "20, 30 5 0 100 400 Ik, 5k, 10k, 15k, 20k (in Hz)"
+  },
+  {
+   "name": "Frequency tolerance",
+   "key": "frequency_tolerance",
+   "text": "+108"
+  },
+  {
+   "name": "After 30 Minutes warm up",
+   "key": "after_30_minutes_warm_up",
+   "text": "Constant Within:0 25 dB at all frequencies and nomina] level 5",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Waveform",
+   "key": "waveform",
+   "text": "Sine wave, Tess than 0.25 % THD at all frequencies.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Direct",
+     "text": "Line: Mic: Less than 50 ohm 600 ohm 150 ohm",
+     "quantities": [
+      {
+       "value": 50,
+       "unit": "ohm"
+      },
+      {
+       "value": 600,
+       "unit": "ohm"
+      },
+      {
+       "value": 150,
+       "unit": "ohm"
+      }
+     ],
+     "key": "direct"
+    },
+    {
+     "name": "Output levels",
+     "text": "",
+     "quantities": [],
+     "key": "output_level"
+    },
+    {
+     "name": "Direct",
+     "text": "Line: Mic: +14 dBm nomina 1 +20 dBm maximum. +8 dBm nomina 1 -70 dBm nomi na] Note: Output Teve] s are calibrated within 0,5 dB",
+     "quantities": [
+      {
+       "value": 14,
+       "unit": "dBm"
+      },
+      {
+       "value": 20,
+       "unit": "dBm"
+      },
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "from": 1,
+       "to": 70,
+       "unit": "dBm"
+      },
+      {
+       "value": 5,
+       "unit": "dB"
+      }
+     ],
+     "key": "direct"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Direct",
+     "text": "ine Mic: 600 ohm, baLanced 600 0 hI, baLanced 150 ohm baLanced.",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohm"
+      },
+      {
+       "value": 150,
+       "unit": "ohm"
+      }
+     ],
+     "key": "direct"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "411 numbered output termina] $ are in pha $ e with each other,"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc, 25 ma",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 25,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 60 degrees Ce] s iuS"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1 6 \" wide X 7\" high X 6.5\" deep (41 TT X 178 M X 165 mm)",
+   "quantities": [
+    {
+     "value": 6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1971 - M452 - P05 - 1-1.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1971 - M452 - P3.jpg",
+   "page": 1
+  }
+ ]
+}
