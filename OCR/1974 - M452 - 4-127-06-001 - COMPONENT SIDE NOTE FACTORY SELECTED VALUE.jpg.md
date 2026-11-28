@@ -1,5 +1,5 @@
 # 1974 - M452 - 4-127-06-001 - COMPONENT SIDE NOTE FACTORY SELECTED VALUE.jpg
-Wiki page: [M452](../../../../PAGES/M452.md)
+Wiki page: [M452](../)
 
 
 - **Year:** 1974 (found in this file: "DATE MAR 74")

@@ -1,5 +1,5 @@
 # 1977 - 452-01-001 - OSCILLATOR MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.jpg
-Wiki page: [M452](../../../../PAGES/M452.md)
+Wiki page: [M452](../)
 
 
 - **Year:** 1977 (title block date)

@@ -1,5 +1,5 @@
 # 1971 - M452 - 452-01-001 - REVISED DESIGNATIONS.jpg
-Wiki page: [M452](../../../../PAGES/M452.md)
+Wiki page: [M452](../)
 
 
 - **Year:** 1971 (module estimate (month))

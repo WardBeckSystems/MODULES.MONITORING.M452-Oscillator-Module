@@ -1,5 +1,5 @@
 # 1971 - M452 - Oscillator Module.pdf
-Wiki page: [M452](../../../../PAGES/M452.md)
+Wiki page: [M452](../)
 
 
 - **Year:** 1971 (found in this file: "SEPT . 19 71")

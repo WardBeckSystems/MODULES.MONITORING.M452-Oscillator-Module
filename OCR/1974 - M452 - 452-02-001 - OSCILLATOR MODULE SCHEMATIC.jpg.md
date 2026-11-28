@@ -1,5 +1,5 @@
 # 1974 - M452 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC.jpg
-Wiki page: [M452](../../../../PAGES/M452.md)
+Wiki page: [M452](../)
 
 
 - **Year:** 1974 (found in this file: "DATE JULY 74")

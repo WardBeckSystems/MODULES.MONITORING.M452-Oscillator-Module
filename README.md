@@ -1,6 +1,6 @@
 # M452 Oscillator Module · Monitoring
 
-Ward-Beck Systems M452, 1971|4. Wiki page: [M452 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M452.html)
+Ward-Beck Systems M452, 1971|4. Wiki page: [M452 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M452-Oscillator-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

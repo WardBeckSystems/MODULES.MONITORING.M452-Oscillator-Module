@@ -1,5 +1,5 @@
 # 1974 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC - DRN BJ - ISS 6.png
-Wiki page: [M452](../../../../PAGES/M452.md)
+Wiki page: [M452](../)
 
 
 - **Year:** 1974 (title block date)
