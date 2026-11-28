@@ -4,13 +4,12 @@ Ward-Beck Systems M452, 1971|4. Wiki page: [M452 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 38 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 31 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 132 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 30 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 131 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 39 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -104,8 +103,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWWI2OUxHWDNrVWc/view?resourcekey=0-U2DKDT0o2IK1RLCAF0loHQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWWI2OUxHWDNrVWc&resourcekey=0-U2DKDT0o2IK1RLCAF0loHQ" width="240" alt="1974 - M452 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC.jpg"></a><br><sub>1974|7 · 452-02-001 - OSCILLATOR MODULE SCHEMATIC · <a href="SCHEMATICS/1974%20-%20M452%20-%20452-02-001%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 452-02-001 - OSCILLATOR MODULE SCHEMATIC - DRN BJ - ISS 6.png`, `1977 - 452-01-001 - OSCILLATOR MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3 (2).jpg`, `1977 - 452-01-001 - OSCILLATOR MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -113,8 +110,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSm8yUkJkZUs4NDA/view?resourcekey=0-P-HCygsu5kDunQ0cdJMvog" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSm8yUkJkZUs4NDA&resourcekey=0-P-HCygsu5kDunQ0cdJMvog" width="240" alt="1971 - M452 - P16 - Pin Out Mod.jpg"></a><br><sub>1971|4 · P16 - Pin Out Mod · <a href="PINOUTS/1971%20-%20M452%20-%20P16%20-%20Pin%20Out%20Mod%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M452 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -206,7 +201,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1984 - 452-02-002 - OSCILLATOR MODULE SCHEMATIC - CKD PC - ISS 1.kicad_sch](KICAD/1984%20-%20452-02-002%20-%20OSCILLATOR%20MODULE%20SCHEMATIC%20-%20CKD%20PC%20-%20ISS%201.kicad_sch)
 - [M452 - P13 - Functional Diagram.kicad_sch](KICAD/M452%20-%20P13%20-%20Functional%20Diagram.kicad_sch)
 - [M452.kicad_sym](KICAD/M452.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
